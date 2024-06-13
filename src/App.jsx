@@ -17,8 +17,8 @@ function App() {
               <div className="d-flex justify-content-between align-items-center">
                 <h2>5,790</h2>
                 <div className="d-flex justify-content-end align-items-center">
-                  <a href="#" className='btn btn-outline-dark me-4 px-10 py-2 rounded-pill'>FOLLOW</a>
-                  <a href="#" className='btn btn-primary px-10 py-2 rounded-pill'>PLAY</a>
+                  <a href="#" className='btn btn-outline-dark me-4 btn-lg btn-pill'>FOLLOW</a>
+                  <a href="#" className='btn btn-primary btn-lg btn-pill'>PLAY</a>
                 </div>
               </div>
             </div>
